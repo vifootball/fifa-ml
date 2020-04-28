@@ -1,6 +1,5 @@
 # fifa-ml
 FIFA Machine Learning Project
+-----
+# Wage Prediction
 
-Practice
-
-FiFa Machine Learning 
